@@ -22,4 +22,4 @@ Training and Optimizatoin:
 
 ## Summary: 
 
-Overall the model could only explain between 72-74% of the outcomes. Perhaps for classification - we coudl improve the performance by changing from neutal network to simpler Random Forest classification. 
+Overall the model could only explain between 72-74% of the outcomes. Perhaps for classification - we could improve the performance by changing from neutal network to simpler Random Forest classification. 
